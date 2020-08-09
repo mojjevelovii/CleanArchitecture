@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import ru.shumilova.mycleanarchitectureapp.R;
-import ru.shumilova.mycleanarchitectureapp.domain.use_case.RateMeInteractorImpl;
 
 public class MainActivity extends AppCompatActivity {
 
